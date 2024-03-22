@@ -1,3 +1,5 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Learning Git and GitHub from Kunal Kushwaha
+
+Donald Duck
